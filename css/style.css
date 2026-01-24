@@ -353,6 +353,7 @@ h6 {
 .classes-cards-container .classes-card:nth-child(5){
     grid-column: span 3;
 }
+
 .classes-card{
     display: flex;
     flex-direction: column;
